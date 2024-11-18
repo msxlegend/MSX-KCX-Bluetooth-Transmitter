@@ -2,7 +2,7 @@
 
 
 ## MSX KCX V1.7
-Add a bluetooth transmition for all MSX. No driver needed !
+Add a bluetooth Music transmitter for all MSX. No driver needed !
 
 * Bluetooth module 1.7
 * mono with the internal pin 49 (Sony and Turbo-r need the jack input)
