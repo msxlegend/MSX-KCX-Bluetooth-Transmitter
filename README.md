@@ -22,8 +22,8 @@ It's not necessary to pair again next time. the pairing is saved
 > Take care when soldering the bluetooth module. The pins are very thin. I am not responsible for any damage caused. This PCB has been carefully tested by me and works perfectly.
 
 
-!(/OLED.jpg)
 ## Revision 1.2 Board
 
-I have add a Spectrum OLED 0.96
-there are 4 pins. The 2 and 3 pin can be shunting 1 seconde (for exemple:with a screw or other) to change the spectrum mode. 
+I have added a Spectrum OLED 0.96
+
+There are 4 pins. The 2 and 3 pin can be shunting 1 seconde to change the spectrum mode. (for exemple: with a screw or other)
