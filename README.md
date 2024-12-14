@@ -27,3 +27,6 @@ It's not necessary to pair again next time. the pairing is saved
 I have added a Spectrum OLED 0.96
 
 There are 4 pins. The 2 and 3 pin can be shunting 1 seconde to change the spectrum mode. (for exemple: with a screw or other)
+
+
+If you want a blue case, contact Overrich here : overrich@naver.com
