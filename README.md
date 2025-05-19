@@ -32,3 +32,12 @@ There are 4 pins. The 2 and 3 pin can be shunting 1 seconde to change the spectr
 If you want a blue case, contact Overrich here : overrich@naver.com
 
 video from Raymond Van Hoorn : https://youtu.be/KpQEUglbrls
+
+
+## IMPORTANT
+
+The provided information,
+software or hardware must not be used for commercial purposes unless permitted by MSXLegend. Producing a small amount of bare boards for
+personal projects and selling the rest of the batch is allowed without my permission.
+
+When the sources of the tools are used to create alternative projects, please always mention the original source and the copyright!
