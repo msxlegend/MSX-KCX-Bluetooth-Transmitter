@@ -41,3 +41,9 @@ software or hardware must not be used for commercial purposes unless permitted b
 personal projects and selling the rest of the batch is allowed without my permission.
 
 When the sources of the tools are used to create alternative projects, please always mention the original source and the copyright!
+
+
+## Contact
+
+Here is my mail address: Msxlegend@live.fr
+If you have questions, contact me ;)
