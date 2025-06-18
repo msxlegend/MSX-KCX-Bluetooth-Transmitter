@@ -47,3 +47,8 @@ When the sources of the tools are used to create alternative projects, please al
 
 Here is my mail address: Msxlegend@live.fr
 If you have questions, contact me ;)
+
+
+## Photos
+
+!(https://raw.githubusercontent.com/msxlegend/MSX-KCX-Bluetooth-Transmitter/refs/heads/main/assembled%20PCB.jpg)
