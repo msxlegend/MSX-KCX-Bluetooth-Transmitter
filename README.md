@@ -1,4 +1,4 @@
-# MSX KCX Bluetooth Transmitter
+# MSX KCX Bluetooth Emitter
 
 
 ## MSX KCX V1.7
@@ -12,8 +12,8 @@ Add a bluetooth Music transmitter for all MSX. No driver needed !
 * I/O cartridge. Can be used in all slot ;)
 
 
-## How it works:
-first, the BT module need to pair. it can take 1mn or more. push the button to try again if it doesn't work.
+## How does it work? 
+First, the BT module need to be paired. It can take 1 mn or more. Push the button to try again if it doesn't work.
 It's not necessary to pair again next time. the pairing is saved
 
 
