@@ -52,3 +52,5 @@ If you have questions, contact me ;)
 ## Photos
 
 !(https://raw.githubusercontent.com/msxlegend/MSX-KCX-Bluetooth-Transmitter/refs/heads/main/assembled%20PCB.jpg)
+
+!(https://msxvillage.fr/upload/1722011184167.jpg)
